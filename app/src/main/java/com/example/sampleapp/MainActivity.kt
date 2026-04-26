@@ -1,4 +1,4 @@
-package com.example.builder
+package com.example.sampleapp
 
 import android.Manifest
 import android.media.AudioFormat
